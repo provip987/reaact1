@@ -10,9 +10,9 @@ function Trangchu(){
       'ds_san_pham':[
         {
           'id': 1,
-          'hinh_anh':'./2.jpg',
+          'hinh_anh':'./1.jpg',
           'ten':'Sản Phẩm 1',
-          'gia':'chỉ được xem',
+          'gia':'900000000',
           'mota':'vip1',
         },
         {

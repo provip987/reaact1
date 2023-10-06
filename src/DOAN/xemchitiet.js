@@ -3,8 +3,7 @@
 function Xemchitiet() {
     return (
        
-     
-    function ChiTietSanPham() {
+    //  function ChiTietSanPham() {
         // const { id } = useParams();
 
         // // Tìm sản phẩm dựa trên id từ URL
@@ -18,7 +17,9 @@ function Xemchitiet() {
         //         <p>Mô tả: {sanPham.mota}</p>
         //     </div>
         // );
-    }
+
+        <h1>sản phảm đẹp vip</h1>
+    
 
       
     );

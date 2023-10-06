@@ -1,3 +1,5 @@
+import {NavLink} from 'react-router-dom';
+
 function Banner() {
   return (
     <>
@@ -12,7 +14,9 @@ function Banner() {
           <div class="carousel-item">
             <img src="" class="d-block w-100" alt="..." />
           </div>
+         
         </div>
+        <button><NavLink to="/giohang">Giỏ Hàng</NavLink></button>
       </div>
     </>
   )
